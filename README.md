@@ -2,7 +2,7 @@
 
 ## Projeler 
 
-- 🤖 Discord için geliştirilen müzik, eğlence ve moderasyon botu: [V'AGGY](https://www.vaggybot.com)
+- 🤖 Discord için geliştirilen müzik, eğlence ve moderasyon botu: [VAVE](https://discord.gg/MaapZw5YVC)
 - ⚡ Güvenli hızlı yüksek performans veritabanı(DB) npm modülü: [Plusdb](https://www.npmjs.com/package/plusdb) 
 
 ### Bağlantılar:
