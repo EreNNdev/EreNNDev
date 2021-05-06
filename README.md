@@ -4,8 +4,8 @@
 
 ## Project 
 
-- 🤖 Discord için geliştirilen müzik, eğlence ve moderasyon botu: [VAVE](https://discord.gg/MaapZw5YVC)
-- ⚡ Güvenli hızlı yüksek performans veritabanı(DB) npm modülü: [Plusdb](https://www.npmjs.com/package/plusdb) 
+- 🤖 Music, entertainment and moderation bot developed for Discord: [VAVE](https://discord.gg/MaapZw5YVC)
+- ⚡ Secure fast high performance database (DB) npm module: [Plusdb](https://www.npmjs.com/package/plusdb) 
 
 ```js
 const whoami = {
