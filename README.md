@@ -39,7 +39,6 @@ console.log(whoami);
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Eslint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?&style=flat-square&logo=Repl.it&logoColor=white)
