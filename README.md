@@ -5,6 +5,19 @@
 - 🤖 Discord için geliştirilen müzik, eğlence ve moderasyon botu: [VAVE](https://discord.gg/MaapZw5YVC)
 - ⚡ Güvenli hızlı yüksek performans veritabanı(DB) npm modülü: [Plusdb](https://www.npmjs.com/package/plusdb) 
 
+```js
+const whoami = {
+ name: "Eren",
+ pronouns: ["he", "him"],
+ where: "Turkey/Istanbul",
+ age: 17,
+ languages: ["Javascript", "Typescript"],
+ experience: "less than 4 year"
+}
+
+console.log(whoami);
+```
+
 ### Bağlantılar:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://bot.vaveoffical.cf/)
