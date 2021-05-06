@@ -31,4 +31,6 @@ console.log(whoami);
 <img align="left" src="https://camo.githubusercontent.com/a121f392f3f65c44171c888f813140fcd13bd9c25a6b3c937c365b67bd40a226/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732532302d2532333430346435392e7376673f267374796c653d666c6174" />
 <img align="left" src="https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
 <img align="left" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+<img align="left" src="https://img.shields.io/badge/Kali_Linux-1793D1?style=flat-square&logo=kali-linux&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 <img align="left" src="https://camo.githubusercontent.com/6544cf54d18095f76050d75c82e01877ff0c2ab70b2bdcac65af0efd7b31a52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e706d2d4342333833373f7374796c653d666c6174266c6f676f3d6e706d" />
