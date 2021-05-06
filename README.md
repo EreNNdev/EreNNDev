@@ -31,7 +31,6 @@ console.log(whoami);
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-1793D1?style=flat-square&logo=ubuntu&logoColor=white)
 ![Linux CentOS](https://img.shields.io/badge/Linux%20CentOS-1793D1?style=flat-square&logo=centos&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
