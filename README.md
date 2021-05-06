@@ -29,6 +29,7 @@ console.log(whoami);
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=flat-square&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-1793D1?style=flat-square&logo=ubuntu&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
