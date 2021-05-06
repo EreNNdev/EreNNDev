@@ -1,6 +1,8 @@
-### Merhaba ben Kato 👋
+### Hi there 👋
 
-## Projeler 
+![profile views](https://komarev.com/ghpvc/?username=katministrator&style=flat-square)
+
+## Project 
 
 - 🤖 Discord için geliştirilen müzik, eğlence ve moderasyon botu: [VAVE](https://discord.gg/MaapZw5YVC)
 - ⚡ Güvenli hızlı yüksek performans veritabanı(DB) npm modülü: [Plusdb](https://www.npmjs.com/package/plusdb) 
@@ -17,17 +19,6 @@ const whoami = {
 
 console.log(whoami);
 ```
-
-### Bağlantılar:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://bot.vaveoffical.cf/)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC6dInyf4tt6oLirKaBXzjSg?view_as=subscriber)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/G6yesrn)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />](https://steamcommunity.com/profiles/76561198388523389/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/vnr9ac7dgkns0f5g16w1h1hvj)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/erenn.gzl/)
-
-<br />
 
 ### Diller 
 
