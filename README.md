@@ -11,8 +11,8 @@
 const whoami = {
  name: "Eren",
  pronouns: ["he", "him"],
- where: "Turkey/Istanbul",
- age: 17,
+ where: "Turkey",
+ age: 16,
  languages: ["Javascript", "Typescript"],
  experience: "less than 4 year"
 }
@@ -29,4 +29,5 @@ console.log(whoami);
 <img align="left" alt="HTML5" src="https://camo.githubusercontent.com/da6dd3fa129f947b4ff7677d0a975ffe769e7fc873c17e6eb2d6331d753637d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742532302d2532333030374143432e7376673f267374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" />
 <img align="left" src="https://camo.githubusercontent.com/91ed35fe1dab368febccdc887439a0e8f6ea277705fd9f2b39d5b710c644eabe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f267374796c653d666c6174266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" />
 <img align="left" src="https://camo.githubusercontent.com/a121f392f3f65c44171c888f813140fcd13bd9c25a6b3c937c365b67bd40a226/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732532302d2532333430346435392e7376673f267374796c653d666c6174" />
+[VS Code](https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 <img align="left" src="https://camo.githubusercontent.com/6544cf54d18095f76050d75c82e01877ff0c2ab70b2bdcac65af0efd7b31a52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e706d2d4342333833373f7374796c653d666c6174266c6f676f3d6e706d" />
