@@ -49,5 +49,6 @@ console.log(whoami);
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=katministrator&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katministrator&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
+ <br>
     <img src="https://github-profile-trophy.vercel.app/?username=katministrator&theme=nord&row=1" />
 </p>
